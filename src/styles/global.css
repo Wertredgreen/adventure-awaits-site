@@ -43,6 +43,9 @@ body {
   font-size: 20px;
   line-height: 1.7;
 }
+p {
+  color: rgb(205 205 205);
+}
 main {
   width: 720px;
   max-width: calc(100% - 2em);
